@@ -49,7 +49,7 @@ Capsule-Network-App/
 
 ### Prerequisites
 
-- **Python 3.7 or higher**: [Download here](https://www.python.org/downloads/).
+- **Python 3.9 or higher**: [Download here](https://www.python.org/downloads/).
 - **Git**: [Download here](https://git-scm.com/downloads).
 
 ### Steps to Install
