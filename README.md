@@ -56,12 +56,12 @@ Capsule-Network-App/
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Capsule-Network-App.git
+    git clone https://github.com/RyoK3N/Capsule_network_MNIST
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Capsule-Network-App
+    cd Capsule_network_MNIST
     ```
 
 3. **(Optional) Create a virtual environment**:
