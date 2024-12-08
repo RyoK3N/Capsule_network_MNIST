@@ -80,3 +80,17 @@ Capsule-Network-App/
     ```bash
     streamlit run app.py
     ```
+
+
+## 🛠️ Training, Testing, and Inference
+
+### 🏋️ Train
+- Customize parameters like batch size, epochs, and learning rate.
+- Start training by clicking the **Start Training** button.
+
+### 🧪 Test
+- Load a trained model and select a test dataset.
+- Evaluate performance with metrics like accuracy, precision, and F1-score.
+
+### 🔍 Infer
+- Upload an image, and the app will preprocess it and display predictions with confidence scores.
