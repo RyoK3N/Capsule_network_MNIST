@@ -29,9 +29,54 @@ The app offers the following features:
 ```plaintext
 Capsule-Network-App/
 ├── app.py
+├── CapsuleLayers.py
 ├── images/
 │   ├── architecture_capsnet.png
 │   ├── working_capsnet.png
 │   └── header_image.png
 ├── requirements.txt
 └── README.md
+```
+
+### File Details
+
+- **`app.py`**: Main application script.
+- **`images/`**: Contains visual aids (diagrams and header image).
+- **`requirements.txt`**: List of Python dependencies for the app.
+- **`README.md`**: Instructions and details about the project.
+
+## ⚙️ Installation
+
+### Prerequisites
+
+- **Python 3.7 or higher**: [Download here](https://www.python.org/downloads/).
+- **Git**: [Download here](https://git-scm.com/downloads).
+
+### Steps to Install
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/Capsule-Network-App.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd Capsule-Network-App
+    ```
+
+3. **(Optional) Create a virtual environment**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # macOS/Linux
+    venv\Scripts\activate     # Windows
+    ```
+
+4. **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. **Run the application**:
+    ```bash
+    streamlit run app.py
+    ```
