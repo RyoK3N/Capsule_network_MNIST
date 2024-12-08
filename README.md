@@ -94,3 +94,44 @@ Capsule-Network-App/
 
 ### 🔍 Infer
 - Upload an image, and the app will preprocess it and display predictions with confidence scores.
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. **Fork the repository**.
+
+2. **Create a new branch**:
+    ```bash
+    git checkout -b feature/YourFeatureName
+    ```
+
+3. **Commit your changes**:
+    ```bash
+    git commit -m "Add YourFeatureName"
+    ```
+
+4. **Push to your branch**:
+    ```bash
+    git push origin feature/YourFeatureName
+    ```
+
+5. **Open a pull request**.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 🙏 Acknowledgments
+
+- **Geoffrey Hinton** for introducing Capsule Networks.
+- **Streamlit** for the interactive web app framework.
+- **Perplexity** for AI research.
+
+---
+
+© 2024 Capsule Network App. All rights reserved.
